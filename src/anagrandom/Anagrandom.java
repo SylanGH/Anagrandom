@@ -18,10 +18,6 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Lexie
- */
 public class Anagrandom extends Application 
 {
 
